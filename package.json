@@ -18,5 +18,9 @@
     "nodemon": "^1.11.0",
     "sinon": "^2.3.6",
     "sinon-mongoose": "^2.0.2"
+  },
+  "engines": {
+  	"node": "6.10.x",
+	"npm": "3.10.x"
   }
 }
